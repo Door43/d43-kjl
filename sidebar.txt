@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kjl:home|Door43 (kjl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kjl|d43-kjl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kjl/archive/master.zip|d43-kjl.zip]]
+
+**Recent Changes**
+{{changes>ns = kjl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kjl|Ethnologue data]]
+
